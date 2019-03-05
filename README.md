@@ -1,6 +1,8 @@
 # EducationalAdventure
 Educational adventure game for children at elementary level schools
 
+**CURRENT UNITY VERSION: 2018.3.5f1** -> You can get it from unity hub archive
+
 **HOW TO CONTRIBUTE**
 
 1. Create a new branch for your feature or issue
